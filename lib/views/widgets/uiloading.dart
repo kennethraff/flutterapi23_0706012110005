@@ -14,7 +14,7 @@ class UiLoading {
     );
   }
 
-  static Container loadingDD() {
+  static Container loadingSmall(){
     return Container(
       alignment: Alignment.center,
       width: 30,
